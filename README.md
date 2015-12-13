@@ -1,1 +1,1 @@
-7 CSS basics
+Github page
